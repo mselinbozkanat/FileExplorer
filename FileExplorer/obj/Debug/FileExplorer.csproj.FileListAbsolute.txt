@@ -1,0 +1,39 @@
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\4\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\4\FileExplorer\bin\Debug\FileExplorer.exe
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\4\FileExplorer\bin\Debug\FileExplorer.pdb
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.pdb
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\4\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\4\FileExplorer\bin\Debug\FileExplorer.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\4\FileExplorer\bin\Debug\FileExplorer.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\3.WinForms\NbuyWinFormsSolution\4\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\3.WinForms\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\3.WinForms\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.pdb
+E:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\4\FileExplorer\bin\Debug\FileExplorer.exe.config
+E:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\4\FileExplorer\bin\Debug\FileExplorer.exe
+E:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\4\FileExplorer\bin\Debug\FileExplorer.pdb
+E:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.csprojAssemblyReference.cache
+E:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+E:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+E:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.cache
+E:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.csproj.CoreCompileInputs.cache
+E:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.exe
+E:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.pdb
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\4\FileExplorer\bin\Debug\FileExplorer.exe.config
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\4\FileExplorer\bin\Debug\FileExplorer.exe
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\4\FileExplorer\bin\Debug\FileExplorer.pdb
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.cache
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.csproj.CoreCompileInputs.cache
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.exe
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.pdb
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\4\FileExplorer\obj\Debug\FileExplorer.csprojResolveAssemblyReference.cache
